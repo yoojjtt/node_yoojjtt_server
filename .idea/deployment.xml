@@ -2,6 +2,13 @@
 <project version="4">
   <component name="PublishConfigData" autoUpload="Always" autoUploadExternalChanges="true">
     <serverData>
+      <paths name="220.230.113.201:3001:node_yoojjtt">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
       <paths name="yoojjtt.cafe24.com">
         <serverdata>
           <mappings>
